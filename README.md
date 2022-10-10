@@ -3,7 +3,7 @@
 ## Plant Pathology 2021 - FGVC8 Kaggle competition
 
 
-![alt text](plant-diseases-lime-leaf-damage-260nw-1604188222 (1).webp)
+![alt text](6c63e4e64150f0ece49a4f1d7b4ccd62--fall-leaves-plant-leaves.jpeg)
 
 
 
